@@ -1,8 +1,8 @@
 [submodule "历史"]
-	path = 历史
-	url = ./
+  path = 历史
+  url = ../books.git
   branch = history
 [submodule "政治"]
-	path = 政治
-	url = ./
+  path = 政治
+  url = ../books.git
   branch = politics
