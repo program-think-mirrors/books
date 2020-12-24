@@ -1,0 +1,8 @@
+[submodule "历史"]
+	path = 历史
+	url = ./
+  branch = history
+[submodule "政治"]
+	path = 政治
+	url = ./
+  branch = politics
