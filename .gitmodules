@@ -6,3 +6,7 @@
   path = 政治
   url = https://github.com/program-think-mirrors/books.git
   branch = politics
+[submodule "军事"]
+  path = 军事
+  url = https://github.com/program-think-mirrors/books.git
+  branch = military
